@@ -1,0 +1,1 @@
+import{s,o as t,v as o,c as e}from"./p-61e10f79.js";import{s as r}from"./p-09484d0e.js";const a=o(e);a.subscribe((t=>s.formState=t)),a.start(),t("formState",(()=>{const{formState:t}=s,{value:a}=t;void 0!==s.text.loading[a]&&r(s.text.loading[a],"assertive")}));const{send:n}=a,f=s=>n(s);export{f as u};
